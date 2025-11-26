@@ -4,7 +4,7 @@ API REST para detectar mutantes basándose en su secuencia de ADN. Proyecto desa
 
 [![Java 17](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Coverage](https://img.shields.io/badge/Coverage-96%25-success.svg)]()
+[![Coverage](https://img.shields.io/badge/Coverage-93%25-success.svg)]()
 
 ## 📋 Descripción
 
